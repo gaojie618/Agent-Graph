@@ -1,0 +1,3 @@
+"""Agent-Graph SDK 版本信息"""
+
+__version__ = "3.0.0"
